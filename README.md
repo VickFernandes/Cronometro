@@ -1,2 +1,2 @@
 # Cronometro
-Cronômetro feito em HTML, CSS e JavaScript.
+Cronômetro feito em HTML, CSS e JavaScript
